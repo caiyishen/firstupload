@@ -1,0 +1,24 @@
+.fade-transform-leave-active,
+.fade-transform-enter-active {
+  transition: all .5s;
+}
+
+.fade-transform-enter {
+  opacity: 0;
+  transform: translateY(-30px);
+}
+
+.fade-transform-leave-to {
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

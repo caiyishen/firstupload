@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-侧边导航/展开</title>
+    <g id="icon-侧边导航/展开" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-侧边导航/收起" transform="translate(12.000000, 12.000000) rotate(-180.000000) translate(-12.000000, -12.000000) translate(4.000000, 4.000000)">
+            <rect id="矩形" fill="#818181" x="0" y="0" width="16" height="2" rx="1"></rect>
+            <path d="M13.3,6.56666667 L15.05,8.9 C15.3813708,9.3418278 15.2918278,9.96862915 14.85,10.3 C14.6769038,10.4298221 14.4663702,10.5 14.25,10.5 L10.75,10.5 C10.1977153,10.5 9.75,10.0522847 9.75,9.5 C9.75,9.28362979 9.82017787,9.07309617 9.95,8.9 L11.7,6.56666667 C12.0313708,6.12483887 12.6581722,6.03529582 13.1,6.36666667 C13.1758057,6.42352092 13.2431458,6.490861 13.3,6.56666667 Z" id="三角形" fill="#666666" transform="translate(12.500000, 8.000000) rotate(-90.000000) translate(-12.500000, -8.000000) "></path>
+            <rect id="矩形备份-5" fill="#818181" x="0" y="14" width="16" height="2" rx="1"></rect>
+            <rect id="矩形备份-3" fill="#818181" x="1" y="5" width="8" height="2" rx="1"></rect>
+            <rect id="矩形备份-4" fill="#818181" x="1" y="9" width="8" height="2" rx="1"></rect>
+        </g>
+    </g>
+</svg>

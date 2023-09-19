@@ -1,0 +1,25 @@
+#components-layout-demo-custom-trigger[data-v-41f1eb52] {
+  height: 100vh;
+}
+#components-layout-demo-custom-trigger .trigger[data-v-41f1eb52] {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+#components-layout-demo-custom-trigger .trigger[data-v-41f1eb52]:hover {
+  color: #1890ff;
+}
+#components-layout-demo-custom-trigger .logo[data-v-41f1eb52] {
+  text-align: center;
+  height: 32px;
+  line-height: 32px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+#components-layout-demo-custom-trigger .aMenu[data-v-41f1eb52] {
+  height: calc(100% - 64px);
+}
+
